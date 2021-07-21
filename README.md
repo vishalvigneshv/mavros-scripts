@@ -7,5 +7,5 @@
 4. run ```roslaunch mavros apm.launch fcu_url:="udp://127.0.0.1:14551@14555"``` to start MAVROS.
 
 ## deploying Scripts
-1. open up Qgroundcontrol and takeoff. 
+1. open up QGroundControl and takeoff to hold position. 
 2. run the .py executable
